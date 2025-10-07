@@ -1112,6 +1112,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Furkan Emin Can](https://github.com/femincan)
   - [Furkan Mutlu](https://github.com/furkanmutlu)
   - [Furqan Abid](https://github.com/heyyfurqan)
+  - [Faith Archibong](https://github.com/faithArchibong555)
 
 | [`Back To Top`](#contents) |
 
